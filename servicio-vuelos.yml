@@ -1,7 +1,5 @@
 clave: 1234
 server:
-  servlet:
-    context-path: /vuelos
   port: 0 #0 se inicia por un puerto libre
 spring:
   datasource:
